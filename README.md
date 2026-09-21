@@ -1,18 +1,24 @@
 # Sharp Studios LLC
 
-## Public website
+Wilson Heredia’s barbershop — 157 N 5th St, Reading, PA. Fades, beards, kids’ cuts. Bookings online only on Booksy. Closed Sunday and Tuesday. English, Español, and Portuguese.
 
-**https://sysopx786.github.io/sharp-studios-website/**
+## Preview
 
-Repo: [https://github.com/sysopx786/sharp-studios-website](https://github.com/sysopx786/sharp-studios-website)
+**Live site:** [https://sysopx786.github.io/sharp-studios-website/](https://sysopx786.github.io/sharp-studios-website/)
 
-Website for **Sharp Studios LLC** at 157 N 5th St, Reading, PA.
+**GitHub:** [https://github.com/sysopx786/sharp-studios-website](https://github.com/sysopx786/sharp-studios-website)
 
-Wilson Heredia’s barbershop. Fades, beards, kids’ cuts. Bookings online only on Booksy — no calls or texts. Closed Sunday and Tuesday. English, Español, and Portuguese.
+## Links
 
-- **Book:** [Booksy](https://booksy.com/en-us/43280_sharp-studios-barbershop_barber-shop_33164_reading)
+- **Preview:** [https://sysopx786.github.io/sharp-studios-website/](https://sysopx786.github.io/sharp-studios-website/)
+- **GitHub repo:** [https://github.com/sysopx786/sharp-studios-website](https://github.com/sysopx786/sharp-studios-website)
+- **Booksy:** [Book on Booksy](https://booksy.com/en-us/43280_sharp-studios-barbershop_barber-shop_33164_reading)
 - **Instagram:** [@sharpstudiosbarbershop](https://www.instagram.com/sharpstudiosbarbershop/)
-- **Maps:** [Google Maps](https://www.google.com/maps/place/Sharp+Studios+LLC/@40.3383225,-75.9276184,17z)
+- **Google Maps:** [157 N 5th St, Reading, PA](https://www.google.com/maps/place/Sharp+Studios+LLC/@40.3383225,-75.9276184,17z)
+- **Google reviews:** [82 five-star reviews](https://www.google.com/maps/place/Sharp+Studios+LLC/@40.3383225,-75.9276184,17z/data=!4m8!3m7!1s0x89c677c15c1ab2b5:0x8d051fd62f3f07f7!8m2!3d40.3383225!4d-75.9276184!9m1!1b1)
+- **Sitemap:** [sitemap.xml](https://sysopx786.github.io/sharp-studios-website/sitemap.xml)
+- **Pages deploys:** [Actions](https://github.com/sysopx786/sharp-studios-website/actions)
+- **Pages settings:** [Settings → Pages](https://github.com/sysopx786/sharp-studios-website/settings/pages)
 
 ## Run locally
 
