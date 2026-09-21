@@ -12,23 +12,14 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { VideosSection } from "@/components/videos-section";
 import { WeekAt603 } from "@/components/week-at-603";
-import { useScrolledFromTop } from "@/lib/scroll-top";
-import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/")({ component: Home });
 
 function Home() {
-  const scrolled = useScrolledFromTop();
-
   return (
     <div
       id="top"
-      className={cn(
-        "min-h-dvh bg-ink text-paper",
-        scrolled
-          ? "pb-8"
-          : "pb-[calc(6.25rem+env(safe-area-inset-bottom))]",
-      )}
+      className="min-h-dvh bg-ink text-paper pb-[calc(6.25rem+env(safe-area-inset-bottom))]"
     >
       <div id="scroll-top-mark" className="h-px w-px overflow-hidden" aria-hidden />
       <SiteHeader />

@@ -120,7 +120,7 @@ export function LangCircles() {
           type="button"
           onClick={() => setLang(option)}
           aria-label={LANG_NAME[option]}
-          className="inline-flex size-[3.75rem] shrink-0 flex-col items-center justify-center gap-0.5 rounded-full bg-signal text-ink shadow-[0_0_0_2px_rgb(228_196_106_/_0.45)] hover:bg-[#ffd34d]"
+          className="lang-flash inline-flex size-[3.75rem] shrink-0 flex-col items-center justify-center gap-0.5 rounded-full bg-signal text-ink hover:bg-[#ffd34d]"
         >
           <HexLangFlag lang={option} />
           <span className="text-[0.65rem] font-extrabold uppercase leading-none tracking-wide">

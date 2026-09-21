@@ -292,6 +292,11 @@ export const GALLERY: readonly GalleryPhoto[] = [];
 
 export const PHOTOS = [...HIGHLIGHTS, ...GALLERY];
 
+export const HERO_VIDEO = {
+  src: "/videos/hero-crew.mp4",
+  poster: "/images/hero-crew.jpg",
+} as const;
+
 export const FEATURED_VIDEO = {
   src: "/videos/featured-design.mp4",
   poster: "/images/featured-poster.jpg",
