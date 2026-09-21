@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /__grok/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://sysopx786.github.io/sharp-studios-website/sitemap.xml

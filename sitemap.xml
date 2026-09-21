@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sysopx786.github.io/sharp-studios-website/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sysopx786.github.io/sharp-studios-website/images/hero-logo.jpg</image:loc>
+      <image:title>Sharp Studios Barbershop</image:title>
+    </image:image>
+  </url>
+</urlset>
